@@ -1,1 +1,14 @@
-
+cybersecurity-python-lab/
+│
+├── 00-lab-setup/
+├── 01-information-gathering/
+├── 02-geolocation-information/
+├── 03-web-scraping/
+├── 04-network-security/
+├── 05-advanced-tools/
+├── 06-blue-team/
+│
+├── docs/
+├── evidence/
+├── reports/
+└── scripts/
